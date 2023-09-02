@@ -1,3 +1,10 @@
+## Libs
+
+- https://ui.shadcn.com/docs/components/form
+- https://tailwindcss.com/docs/functions-and-directives
+- https://clerk.com/docs/quickstarts/nextjs
+- https://zod.dev/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 > need clerk secert
